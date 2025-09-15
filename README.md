@@ -14,7 +14,7 @@ This project is currently in active development and not yet ready for use. We're
 
 6-Month Development Roadmap
 
-Month 1-2: Foundation & Research
+**Month 1-2: Foundation & Research**
 
 Market research and user interviews with potential donors/recipients
 Technical architecture planning and technology stack selection
@@ -22,7 +22,7 @@ UI/UX wireframes and user journey mapping
 Community feedback collection and feature prioritization
 Initial GitHub repository setup with documentation
 
-Month 3-4: Core Platform Development
+**Month 3-4: Core Platform Development**
 
 User registration and profile management system
 Basic food listing and request functionality
@@ -30,7 +30,7 @@ Location-based matching algorithm (privacy-focused)
 Mobile-responsive web application development
 Community guidelines and safety features integration
 
-Month 5-6: Community Features & Testing
+**Month 5-6: Community Features & Testing**
 
 Messaging system for donor-recipient communication
 Community rating and feedback mechanisms
@@ -39,14 +39,14 @@ Beta testing with select local communities
 Security audits and accessibility compliance
 Launch preparation and community onboarding materials
 
-Ongoing Throughout:
+**Ongoing Throughout:**
 
 Weekly GitHub updates with working components
 Community feedback integration and iteration
 Documentation and open-source contribution guidelines
 Partnership discussions with local community organizations
 
-End Goal: Functional MVP ready for limited community pilot launch, with all core features tested and documented for broader rollout.
+**End Goal:** Functional MVP ready for limited community pilot launch, with all core features tested and documented for broader rollout.
 
 ### 4. TODO list
 
