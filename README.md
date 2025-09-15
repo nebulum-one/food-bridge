@@ -57,4 +57,5 @@ Sept 2025
 - About page
 - Brand planning and brand assets
 - domain name selection and registration
+- launch static website
 - Finalize vision & roadmap
