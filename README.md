@@ -1,3 +1,5 @@
+![Community Food Bridge](https://raw.githubusercontent.com/nebulum-one/food-bridge/refs/heads/main/community-food-bridge-git.png)
+
 ### 1. Project vision and goals
 
 This open-source community platform empowers neighbors worldwide to directly share food with dignity and ease. We're building bridges between local abundance and need, bypassing bureaucratic middlemen to create immediate impact. Our mission centers on food security, child nutrition, and community resilience—recognizing that hundreds of millions globally face hunger while solutions exist in every neighborhood.
