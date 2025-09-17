@@ -2,7 +2,7 @@
 
 Sept 2025
 
-- Favicon
+- Favicon ☑️
 - SEO
 - Main page of website with messaging
 - Contact page & email setup
